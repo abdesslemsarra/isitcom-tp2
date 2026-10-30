@@ -19,5 +19,3 @@ qui ne fait encore rien.
 
 Ouvrir `index.html` dans un navigateur (double-clic). Aucune installation n'est nécessaire.
 
-## Test collab
-17med
