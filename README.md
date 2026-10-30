@@ -18,3 +18,6 @@ qui ne fait encore rien.
 ## Lancer le site
 
 Ouvrir `index.html` dans un navigateur (double-clic). Aucune installation n'est nécessaire.
+
+## Test collab
+17med
